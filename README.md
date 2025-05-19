@@ -17,7 +17,7 @@ Below is attached screenshot of weather app:
 ![image](https://github.com/user-attachments/assets/9d461cf3-1e74-4dd9-a570-dd9d875072a6)
 
 **The Tic Tac Toe has the following features:**
--> A grid display
+-> A grid display 
 -> 9 image views which display the nought or cross based on the player turn
 -> winning conditions for each possible win
 -> restart button to start a new game, allows infinte plays this way
