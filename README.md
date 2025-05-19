@@ -13,7 +13,6 @@ These are simplistic implementations of the correspoding games/apps.
 -> display the relevant data on the screen via the text boxes
 -> change the imageview to match the weather type (visual display)
 
-Below is attached screenshot of weather app:
 ![image](https://github.com/user-attachments/assets/9d461cf3-1e74-4dd9-a570-dd9d875072a6)
 
 **The Tic Tac Toe has the following features:**
